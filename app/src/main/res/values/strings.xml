@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Arcedium Coffeehouse</string>
+    <string name="shop_name">Arcedium Coffeehouse</string>
+    <string name="about_business">Dennis and Celeste Walker opened Arcedium Coffeehouse in 2009 with the mission to provide high quality, fresh roasted coffees, teas, sandwiches, soups, and baked goods. We roast coffee daily in our Saint Charles roastery and coffeehouse.</string>
+    <string name="award_info">Arcedium was named Best Coffeehouse for the 5th straight year by the Kane County Chronicle!</string>
+    <string name="info">Info</string>
+    <string name="hours">Hours</string>
+    <string name="hours_details">Monday thru Saturday: 6a - 7p \nSunday: 7a - 5p</string>
+    <string name="address">Address</string>
+    <string name="address_details">60 Indiana St. \nSaint Charles, IL 60174</string>
+    <string name="phone">Phone</string>
+    <string name="phone_details">(630) 444-0610</string>
+    <string name="email">Email</string>
+    <string name="email_details">arcediumcoffee@att.net</string>
+</resources>
